@@ -79,7 +79,7 @@ class Developer:
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varaddorle007/varaddorle007/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=varaddorle007&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&background=0a0e27" alt="GitHub Streak Stats"/>
 </p>
 
 ---
@@ -92,26 +92,10 @@ class Developer:
 
 ---
 
-## 🕹️ Pac-Man Eats My Contributions!
+## 📈 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varaddorle007/varaddorle007/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varaddorle007/varaddorle007/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/varaddorle007/varaddorle007/output/pacman-contribution-graph.svg"/>
-  </picture>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varaddorle007/varaddorle007/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varaddorle007/varaddorle007/output/github-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/varaddorle007/varaddorle007/output/github-snake.svg"/>
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varaddorle007&theme=tokyonight" alt="Contribution activity"/>
 </p>
 
 ---
@@ -119,9 +103,8 @@ class Developer:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varaddorle007/varaddorle007/main/github-stats.svg" alt="GitHub Statistics"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/varaddorle007/varaddorle007/main/top-languages.svg" alt="Top Languages"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varaddorle007&theme=tokyonight" alt="GitHub Statistics"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varaddorle007&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
